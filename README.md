@@ -10,8 +10,8 @@
 
 I'm a software engineer based in Addis Ababa, Ethiopia, focused on building **resilient backend systems**, **AI-powered products**, and **type-safe full-stack applications**.
 
-- 🔭 **Building:** [**Questify**](https://github.com/yordanossole) — an async-first AI study assistant with Redis-backed worker queues, RAG Q&A, and multi-provider LLM routing
 - 🌐 **Architecture & Infra:** Led backend & cloud architecture for the **LENS Project** (AAU – CTBE), an RMBT open-source network speed measurement & telemetry platform
+- 🔭 **Building:** [**Questify**](https://github.com/yordanossole) — an async-first AI study assistant with Redis-backed worker queues, RAG Q&A, and multi-provider LLM routing
 - 💼 **Experience:** Shipped production systems across **Excellerent Technology Solutions** (US, Remote), **Riser Technology**, and **Redcloud IT Solutions** (`1,000+` daily sessions)
 - 🎓 **Background:** B.S. in Information Systems (Addis Ababa University) · **A2SV** (Google-backed) alum · **300+ DSA problems** solved
 - ⚙️ **Engineering Focus:** Clean architecture, idempotent payment & financial systems, SQL query optimization, and agentic AI workflows
@@ -24,7 +24,6 @@ I'm a software engineer based in Addis Ababa, Ethiopia, focused on building **re
 | :--- | :--- | :--- |
 | **Questify** | Async AI pipeline with Redis workers, 11 generative workflows, Upstash Vector RAG Q&A, and HMAC-verified Chapa/Telebirr payments | `FastAPI` `React` `PostgreSQL` `Redis` `RAG` |
 | **LENS (AAU – CTBE)** | Live RMBT open-source network speed & spatiotemporal telemetry platform with cloud deployment and spatial aggregation | `Java` `PostgreSQL/PostGIS` `React` `Linux` |
-| **Gebeya Link** | C2B financial & eCommerce platform with role-based auth, catalog management, and ACID-compliant order workflows | `Java` `Spring Boot` `PostgreSQL` `JPA` |
 
 ---
 
