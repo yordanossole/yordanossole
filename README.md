@@ -39,7 +39,7 @@ I'm a software engineer based in Addis Ababa, Ethiopia, focused on building **re
 
 ### GitHub Stats
 
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=yordanossole&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;Yordanos Solomon&#39;s GitHub stats&quot; height=&quot;165&quot; /&gt;
-  &lt;img src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=yordanossole&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;Top Languages&quot; height=&quot;165&quot; /&gt;
-&lt;/p&gt;
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=yordanossole&show_icons=true&theme=tokyonight&hide_border=true" alt="Yordanos Solomon's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yordanossole&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
